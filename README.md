@@ -1,2 +1,2 @@
-# Coursera_Submission
+# Coursera Projects
 Coursera code submission
